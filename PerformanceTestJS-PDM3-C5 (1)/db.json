@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alicia Moreno",
+      "email": "manager@company.com",
+      "password": "manager123",
+      "role": "Admin"
+    },
+    {
+      "id": "u2",
+      "name": "Bruno Vega",
+      "email": "bruno@company.com",
+      "password": "bruno123",
+      "role": "usuario"
+    },
+    {
+      "id": "u3",
+      "name": "Camila Torres",
+      "email": "camila@company.com",
+      "password": "camila123",
+      "role": "usuario"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "userId": 2,
+      "workspace": "Sala A",
+      "date": "2026-01-15",
+      "startHour": "08:00",
+      "endHour": "09:00",
+      "reason": "Sprint Planning",
+      "status": "pending"
+    },
+    {
+   "id": 1,
+   "Usuario solicitante": "Alfredo",
+   "Espacio reservado": "2026-06-12",
+   "Fecha":"2026-06-12,",
+   "Hora de inicio":"7:00pm",
+   "Hora de finalización":"9:00AM",
+   "Motivo de la reserva": "VACACIONES ",
+   "Estado":"ACTIVO"
+    }
+  ]
+}
